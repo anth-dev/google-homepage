@@ -10,10 +10,8 @@ header {
 main {
     grid-area: main;
     justify-self: center;
-    align-self: center;
 }
 
-/* searchbox alignment needs to be figured out */
 #searchbox {
     width: 100%;
 }
