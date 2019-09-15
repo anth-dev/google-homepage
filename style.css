@@ -13,6 +13,11 @@ main {
     align-self: center;
 }
 
+/* searchbox alignment needs to be figured out */
+#searchbox {
+    width: 100%;
+}
+
 footer {
     grid-area: footer;
 }
