@@ -5,6 +5,7 @@ html, body {
 
 header {
     grid-area: header;
+    padding: 15px;
 }
 
 main {
@@ -19,6 +20,7 @@ main {
 footer {
     grid-area: footer;
     background-color: #e6e6e6dc;
+    padding: 10px;
     /* add border to the top of the footer */
 }
 
@@ -45,6 +47,7 @@ li {
 
 li a {
     color: rgb(56, 56, 56);
+    text-decoration: none;
 }
 
 a {
