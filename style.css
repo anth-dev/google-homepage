@@ -19,6 +19,7 @@ main {
 footer {
     grid-area: footer;
     background-color: #e6e6e6dc;
+    /* add border to the top of the footer */
 }
 
 article {
@@ -42,7 +43,20 @@ li {
     float: left;
 }
 
+li a {
+    color: rgb(56, 56, 56);
+}
+
 a {
     display: block;
     padding: 8px;
+}
+
+#signin {
+    background-color: blue;
+    border-radius: 3px;
+}
+
+#signin a {
+    color: white;
 }
