@@ -22,6 +22,12 @@ main {
     width: 100%;
 }
 
+.odintext {
+    display: inline;
+    position: relative;
+    left: 10%;
+}
+
 footer {
     grid-area: footer;
     background-color: #e6e6e6dc;
@@ -82,7 +88,10 @@ a {
 .searchbutton {
     min-width: 25%;
     padding: 5px;
-    margin: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
     position: relative;
     left: 20%;
 }
