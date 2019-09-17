@@ -58,7 +58,9 @@ li a {
 li img {
     height: 25px;
     width: 25px;
-       
+    position: relative;
+    bottom: 5px;
+    padding-right: 10px;
 }
 
 a {
